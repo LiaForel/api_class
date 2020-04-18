@@ -1,6 +1,6 @@
 # api_class
 
-udemy class on API with Express and MongoDB
+API with Express and MongoDB
 
 # run project
 
